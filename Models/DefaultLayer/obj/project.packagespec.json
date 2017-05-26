@@ -1,0 +1,40 @@
+﻿{
+  "version": "2.1.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\DefaultLayer.csproj",
+    "projectName": "DefaultLayer",
+    "projectPath": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\DefaultLayer.csproj",
+    "outputPath": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.6"
+    ],
+    "frameworks": {
+      "netstandard1.6": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "LIFE-Components": {
+          "target": "Package",
+          "version": "2.1.1"
+        },
+        "LIFE-API": {
+          "target": "Package",
+          "version": "2.1.1"
+        },
+        "LIFE-Core": {
+          "target": "Package",
+          "version": "2.1.1"
+        }
+      }
+    }
+  }
+}

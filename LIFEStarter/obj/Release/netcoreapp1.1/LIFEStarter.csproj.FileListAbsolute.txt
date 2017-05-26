@@ -1,0 +1,10 @@
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\LIFEStarter.deps.json
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\LIFEStarter.runtimeconfig.json
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\LIFEStarter.runtimeconfig.dev.json
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\LIFEStarter.dll
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\LIFEStarter.pdb
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\DefaultLayer.dll
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\bin\Release\netcoreapp1.1\DefaultLayer.pdb
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\obj\Release\netcoreapp1.1\LIFEStarter.AssemblyInfo.cs
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\obj\Release\netcoreapp1.1\LIFEStarter.dll
+C:\Users\Alberto\MARS\NagelSchreckenberg\LIFEStarter\obj\Release\netcoreapp1.1\LIFEStarter.pdb

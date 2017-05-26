@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\LIFEStarter\\LIFEStarter.csproj",
+    "projectName": "LIFEStarter",
+    "projectPath": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\LIFEStarter\\LIFEStarter.csproj",
+    "outputPath": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\LIFEStarter\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\DefaultLayer.csproj": {
+            "projectPath": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\DefaultLayer.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "LIFE-Core": {
+          "target": "Package",
+          "version": "2.1.1"
+        }
+      },
+      "imports": [
+        "dnxcore50"
+      ]
+    }
+  },
+  "runtimes": {
+    "win10-x64": {
+      "#import": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="LIFE-Configuration">
+    <LayerType>Basic</LayerType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VersionPrefix>2.1.0</VersionPrefix>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <AssemblyName>DefaultLayer</AssemblyName>
+    <PackageId>DefaultLayer</PackageId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LIFE-Components" Version="2.1.1" />
+    <PackageReference Include="LIFE-API" Version="2.1.1" />
+    <PackageReference Include="LIFE-Core" Version="2.1.1" />
+  </ItemGroup>
+</Project>

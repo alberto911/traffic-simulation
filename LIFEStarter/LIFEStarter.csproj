@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>LIFEStarter</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>LIFEStarter</PackageId>
+    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LIFE-Core" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Models\DefaultLayer\DefaultLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="out\runtimes\linux\lib\netstandard1.3" />
+    <Folder Include="out\runtimes\osx\lib\netstandard1.3" />
+    <Folder Include="out\runtimes\unix\lib\netstandard1.3" />
+    <Folder Include="out\runtimes\win7-x64\native" />
+    <Folder Include="out\runtimes\win7-x86\native" />
+    <Folder Include="out\runtimes\win\lib\netstandard1.3" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\bin\Release\netstandard1.6\DefaultLayer.deps.json
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\bin\Release\netstandard1.6\DefaultLayer.dll
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\bin\Release\netstandard1.6\DefaultLayer.pdb
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\obj\Release\netstandard1.6\DefaultLayer.AssemblyInfo.cs
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\obj\Release\netstandard1.6\DefaultLayer.dll
+C:\Users\Alberto\MARS\NagelSchreckenberg\Models\DefaultLayer\obj\Release\netstandard1.6\DefaultLayer.pdb
