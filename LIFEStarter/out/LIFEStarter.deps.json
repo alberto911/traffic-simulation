@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v1.1": {
       "lifestarter/1.0.0": {
         "dependencies": {
-          "DefaultLayer": "1.0.0",
+          "DefaultLayer": "2.1.0",
           "LIFE-Core": "2.1.1"
         },
         "runtime": {
@@ -958,7 +958,7 @@
           "lib/netstandard1.6/Utilities.dll": {}
         }
       },
-      "defaultlayer/1.0.0": {
+      "defaultlayer/2.1.0": {
         "dependencies": {
           "LIFE-API": "2.1.1",
           "LIFE-Components": "2.1.1",
@@ -1662,7 +1662,7 @@
       "path": "utilities/2.1.1",
       "hashPath": "utilities.2.1.1.nupkg.sha512"
     },
-    "defaultlayer/1.0.0": {
+    "defaultlayer/2.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

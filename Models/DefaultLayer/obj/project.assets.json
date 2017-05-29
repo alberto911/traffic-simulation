@@ -9837,7 +9837,7 @@
     "C:\\Users\\Alberto\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Alberto\\MARS\\NagelSchreckenberg\\Models\\DefaultLayer\\DefaultLayer.csproj",
       "projectName": "DefaultLayer",

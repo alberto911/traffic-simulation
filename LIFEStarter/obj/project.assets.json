@@ -3885,7 +3885,7 @@
           "lib/netstandard1.6/Utilities.dll": {}
         }
       },
-      "DefaultLayer/1.0.0": {
+      "DefaultLayer/2.1.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.6",
         "dependencies": {
@@ -7832,7 +7832,7 @@
           "lib/netstandard1.6/Utilities.dll": {}
         }
       },
-      "DefaultLayer/1.0.0": {
+      "DefaultLayer/2.1.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.6",
         "dependencies": {
@@ -14888,7 +14888,7 @@
         "utilities.nuspec"
       ]
     },
-    "DefaultLayer/1.0.0": {
+    "DefaultLayer/2.1.0": {
       "type": "project",
       "path": "../Models/DefaultLayer/DefaultLayer.csproj",
       "msbuildProject": "../Models/DefaultLayer/DefaultLayer.csproj"
@@ -14896,7 +14896,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "DefaultLayer >= 1.0.0",
+      "DefaultLayer >= 2.1.0",
       "LIFE-Core >= 2.1.1",
       "Microsoft.NETCore.App >= 1.1.1"
     ]

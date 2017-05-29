@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v1.6": {},
     ".NETStandard,Version=v1.6/": {
-      "defaultlayer/1.0.0": {
+      "defaultlayer/2.1.0": {
         "dependencies": {
           "LIFE-API": "2.1.1",
           "LIFE-Components": "2.1.1",
@@ -2512,7 +2512,7 @@
     }
   },
   "libraries": {
-    "defaultlayer/1.0.0": {
+    "defaultlayer/2.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

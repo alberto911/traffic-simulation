@@ -66,10 +66,8 @@ namespace Mars.NagelSchreckenberg.Models.DefaultLayer
             regFkt(Layer, this);
             Y = Random.Next(Layer.DimensionY);
 
-            var xIndex = Random.Next(Layer.FreeCells.Count);
-            X = Layer.FreeCells[xIndex];
-            Console.WriteLine(X);
-            Layer.FreeCells.RemoveAt(xIndex);
+            X = Layer.FreeCells[Random.Next(Layer.FreeCells.Count)];
+            Layer.FreeCells.Remove(X);
             env.Insert(this);
 
             _speedlimit = 5;
